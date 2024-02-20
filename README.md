@@ -5,7 +5,7 @@ Este repositório contém scripts de automação de testes para o blog do Agi. O
 ## Cenários de Teste
 
 1. **Teste de pesquisa de artigos**: Este teste verifica se a funcionalidade de pesquisa está funcionando corretamente.
-2. **Teste de navegação de artigos**: Este teste verifica se a navegação entre os artigos está funcionando corretamente.
+2. **Teste de pesquisa de artigos inexistentes**: Este teste verifica se a há um retorno adequado ao usuario caso ele pesquise algo que não exista.
 
 ## Como usar
 
